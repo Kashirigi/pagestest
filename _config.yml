@@ -1,5 +1,6 @@
 name: Kashirigi
-remote_theme: pmarsciell/just-the-docs
+title: "Test Github thingy"
+remote_theme: pmarsceill/just-the-docs
 logo: "/assets/images/Logo.png"
 search-enabled: true
 search_tokenizer_separator: /[\s/]+/
