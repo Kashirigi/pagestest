@@ -5,6 +5,6 @@ logo: "/assets/images/Logo.png"
 search-enabled: true
 search_tokenizer_separator: /[\s/]+/
 aux_links:
-  "Just the Docs on GitHub":
-    - "//github.com/pmarsceill/just-the-docs"
+  "Use the googles":
+    - "//google.com"
 footer_content: "This is the footer content"
