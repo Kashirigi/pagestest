@@ -1,5 +1,4 @@
 name: Kashirigi
-markdown: github
 remote-theme: pmarsciell/just-the-docs
 logo: "/assets/images/Logo.png"
 search-enabled: true
