@@ -1,0 +1,1 @@
+# kashirigi.github.io
