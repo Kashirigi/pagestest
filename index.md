@@ -1,3 +1,6 @@
+---
+nav_order: 1
+---
 # This is the main landing page.
 
 ### There will be some other crap here.

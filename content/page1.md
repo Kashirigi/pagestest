@@ -1,3 +1,7 @@
+---
+nav_order: 2
+---
+
 # Like there's anything here
 
 
@@ -29,4 +33,6 @@ Pellentesque sed lacinia lorem. Morbi ullamcorper lacus id blandit iaculis. Aene
 
 
 [Press me](https://kashirigi.github.com){: .btn .btn-purple}
+
+
 Maecenas non imperdiet massa. Phasellus placerat non massa ac tempor. 
