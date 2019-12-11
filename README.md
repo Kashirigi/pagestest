@@ -1,3 +1,7 @@
+---
+nav_exclude: true
+---
+
 # kashirigi.github.io
 
 ## I am trying to learn to use github pages
